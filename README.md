@@ -1,1 +1,3 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+[![Build Status](https://travis-ci.com/rstudio/bookdown-demo.svg?branch=master)](https://travis-ci.com/rstudio/bookdown-demo)
+
+This repo contains notes for STAT300 - Intermediate Statistics for Applications course notes in the form of a bookdown book. It is currently under development. 
